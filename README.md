@@ -1,5 +1,7 @@
 # Исследование надёжности заёмщиков
 
+[ipynb](https://github.com/Nanzhik/Research-for-credit-scoring/blob/main/Research_for_credit_scoring.ipynb)
+
 ## Описание проекта
 
 **Заказчик:** кредитный отдел банка. 
